@@ -1,1 +1,24 @@
+# WordPress core
+wp-admin/
+wp-includes/
+wp-*.php
+index.php
+xmlrpc.php
+readme.html
+license.txt
+
+# Config
 wp-config.php
+wp-config-sample.php
+
+# Uploads (very large)
+wp-content/uploads/
+
+# Cache & logs
+wp-content/cache/
+wp-content/debug.log
+
+# OS / Editor
+.DS_Store
+*.log
+
